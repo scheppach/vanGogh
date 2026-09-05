@@ -1,0 +1,1 @@
+{"format": "VanGogh", "version": 1, "inputGain": 18.439998626708984, "outputGain": -15.959999084472656, "dcFilterEnabled": true, "curve": [{"x": -1.0, "y": -0.5}, {"x": -0.5, "y": -0.5}, {"x": 0.5, "y": 0.5}, {"x": 1.0, "y": 0.5}]}
