@@ -1,0 +1,29 @@
+# Build directories and generated CMake files
+/build/
+/out/
+/cmake-build-*/
+
+# Visual Studio user-specific files
+/.vs/
+*.user
+*.suo
+
+# Local dependencies and downloaded toolchains
+/third_party/JUCE/
+/third_party/cmake-nightly/
+/third_party/cmake-nightly.zip
+
+# Generated plugin bundles and compiler output
+*.vst3
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# Temporary/editor files
+*.tmp
+*.log
+*.bak
+
+# Deliberately omitted: example .drawdist presets in /presets/
